@@ -25,3 +25,5 @@ To calculate the average age of depositors, a DAX measure was used to calculate 
 
 ![Average age of depositors](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/e39a4204-df3b-4911-8dce-958b715dcf26)
 
+A new column titled 'Age Band' was created to show ‘Young’ for ages below 30, ‘Mid-aged’ for ages between 30 and 50 and ‘Old’ for ages above 50. This was achieved by inserting a new column
+
