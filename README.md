@@ -41,9 +41,20 @@ A measure to get the total number of depositors on Loan was achieved using the s
 
 
 
-A tracking dashboard to monitor squeenut bank deposit subscription was developed including the above calculated key point indicators. The total balance for all depositors was calculated using a card visual, this produced an insight of the sixy-two million as the balance to closeout from all depositors, while balance by marital status was also considered, this displayed married depositors to have a greater percentage to closeout the total balance margin. developed a   and balance by job type was all visualize.
+A tracking dashboard to monitor squeenut bank deposit subscription was developed including the above calculated key point indicators. The total balance for all depositors was calculated using a card visual, this produced an insight of the sixy-two million as the balance to closeout from all depositors, while balance by marital status was also considered, this displayed married depositors to have thirty-nine million as a greater percentage to closeout the total balance margin, followed by singles having seventeen million, and divorce as six million. Hence married individuals should be sent a reminder mail to pay up their balance within the expected duration period. The balance by job type was all visualize showing Management, Blue collar, Technician, Admin and Retired as the hightest balance having job type individuals. A loan slicer was also inserted into the dash to monitor the total loan balance for the marital and job type depositors. The total balance value, balance by marital visual and job type visual can be seen below. The Squeenut Bank dashboard can be viewed here[]
 
- 
 
+![Screenshot 2023-09-08 102653](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/676b158b-bde7-48bb-953d-e64299a996fd)
+
+![Screenshot 2023-09-08 102529](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/6ca9e64a-0854-40f6-a6b2-6ac64ba4895e)
+
+![Screenshot 2023-09-08 102541](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/97e24f82-6f44-430b-a8c0-702d0fe2dfc6)
+
+
+
+
+
+# **Conclusion**
+This financial analysis exercise has made it easy to simplify, track and visualize the loan system of the bank, the total balance required from all depositors and the marital status using a dashboard with calculated columns and measures.
 
 
