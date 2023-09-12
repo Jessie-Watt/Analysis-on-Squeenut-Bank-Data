@@ -1,7 +1,7 @@
 # Analysis-on-Squeenut-Bank-Data
 
 # **Introduction**
-Power BI software will be extensively used to analyse Squeenut Bank dataset, to determine the rate at which the bank monitors loan, issued to different job sectors, considering factors like the marital status of the borrower, the educational level, and their individual balance. A dashboard will be created to monitor the bank depositors subscription, using KPIs formulated from Data Analysis Expressions(DAX) to solve this financial analysis.
+Power BI software was extensively used to analyse Squeenut Bank dataset, to determine the rate at which the bank monitors loan, issued to different job sectors, considering factors like the marital status of the borrower, the educational level, and their individual balance. A dashboard will be created to monitor the bank depositors subscription, using KPIs formulated from Data Analysis Expressions(DAX) to solve this financial analysis.
 
 # **Activity**
 - [ ]  Importation of the ‘Bank Term Deposit Subscription’ dataset into Power BI Desktop
