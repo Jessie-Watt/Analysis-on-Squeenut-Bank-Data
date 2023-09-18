@@ -35,9 +35,9 @@ Two card visuals were also imported into the report view, showing measures calcu
 ![image](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/3c17f6d0-f4d5-4c43-88ce-4c826a3cada6)
 ![Balance for Technicians](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/d3258c47-4619-4e32-8098-7e1f00f099f4)
 
-A measure to get the total number of depositors on Loan was achieved using the syntax format: _CALCULATE(expression, filter1, filter2, ...)_. This particular syntax was applied in this measure; "Number of Depositors on Loan = _CALCULATE(SUM(Squeenut_Bank[Age])_, Squeenut_Bank[Loan] IN { "Yes" })". The measure was applied to a card visual with the visual formatted. The total number of depositors on loan can be seen in the card visual below
+A measure to get the total number of depositors on Loan was achieved using the syntax format: _CALCULATE(expression, filter1, filter2, ...)_. This particular syntax was applied in this measure; "Number of Depositors on Loan = _CALCULATE(COUNT(Squeenut_Bank[Age])_, Squeenut_Bank[Loan] IN { "Yes" })". The measure was applied to a card visual with the visual formatted. The total number of depositors on loan can be seen in the card visual below
 
-![image](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/1005080a-4df1-45fd-a705-71ff08ba7fcf)
+![Numbers of Depositors on Loan](https://github.com/Jessie-Watt/Analysis-on-Squeenut-Bank-Data/assets/140435577/b486d3ba-4f5e-47f0-9d13-69bd0e54eb5a)
 
 
 
